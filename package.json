@@ -2,7 +2,7 @@
   "name": "bitcore-node-rapture",
   "description": "Full node with extended capabilities using bitcore and RAPTURE Core (rapturedd)",
   "author": "BitPay <dev@bitpay.com>",
-  "version": "3.0.8",
+  "version": "3.0.9",
   "main": "./index.js",
   "repository": "https://github.com/RaptureCore/bitcore-node-rapture.git",
   "homepage": "https://github.com/RaptureCore/bitcore-node-rapture",
